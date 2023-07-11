@@ -1,15 +1,16 @@
 /*  your css code here. If applicable */
-/*  your css code here. If applicable */
-.hero{
-	display:flex;
-	flex-flow:row;
-	gap:25px;
+div{
+    display: inline-block;
 }
-.left{
-	margin:auto;
-	align-items:center;
-	text-align:center;
+a{
+	text-decoration:none;
+    padding: 5px;
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 4px;
 }
-button{
-	font-weight:bold;
+.item2{
+    text-align: center;
+	object-fit: cover;
 }
