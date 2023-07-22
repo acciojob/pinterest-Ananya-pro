@@ -1,4 +1,4 @@
-/*  your css code here. If applicable */
+/* your css code here. If applicable */
 div{
     display: inline-block;
 }
@@ -12,5 +12,5 @@ a{
 }
 .item2{
     text-align: center;
-	object-fit: cover;
+	object-fit: fill;
 }
